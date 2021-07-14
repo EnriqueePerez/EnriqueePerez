@@ -2,9 +2,9 @@
 
 <p align='center'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/novelo-luis/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/enriqueeperez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   &nbsp;
-  <a href="https://platzi.com/profesores/novelonovelo/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://platzi.com/p/EnriquePerez/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h3>About me</h3>
 <br/>
