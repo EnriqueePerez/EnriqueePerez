@@ -1,11 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hey, nice to see you 👨‍💻, if you like my profile, contact <a href="mailto:hi@enriqueeperez.com">me</a></h1>
 
-<h1 align="center">Hey, nice to see you 👨‍💻</h1>
-<p>I am a Software Engineer focused on create helpful, remarkable and scalable applications. Always thinking on the final user to give a quality product by choosing the right technologies according on the product requirements. .</p>
+<p align='center'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/novelo-luis/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  &nbsp;
+  <a href="https://platzi.com/profesores/novelonovelo/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
+<h3>About me</h3>
+<br/>
+<p>I am a Software Engineer focused on create helpful, remarkable and scalable applications. Always thinking on the final user to give a quality product by choosing the right technologies according on the product requirements.</p>
 
+<!--
+<h3>Stack</h3>
+![Javascript](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg) Hihih
+<ul>
+  <li>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="20px"          src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a> <p>Javascript</p>
+  </li>
+<br>
+  <li>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="32px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a> Typescript</a>
+  </li>
+</ul>
+-->
 
 <h3>GitHub Stats</h3>
+<br/>
 <div align="center">
 <a href="https://github.com/EnriqueePerez">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueePerez&theme=dracula&count_private=true&hide=css,blade" alt="EnriqueePerez's GitHub Stats" />
